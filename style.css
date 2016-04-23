@@ -17,5 +17,14 @@ a:link, a:visited{
 }
 
 #intro{
-  color: rgb(214, 52, 158);
+  padding: 200px;
+  background-image: url(imgs/tos.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: top;
+}
+
+#all{
+  margin-top: 50px;
 }
