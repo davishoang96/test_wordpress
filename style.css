@@ -1,0 +1,21 @@
+/*
+Theme Name: Spencer's Custom Theme
+Author: Spencer
+Author URI: http://thethinktankllc.com
+Version: 1.0
+*/
+.logged-in nav.navbar.navbar-inverse.navbar-fixed-top{
+  margin-top: 32px;
+}
+
+p{
+  font-style: italic;
+}
+
+a:link, a:visited{
+  color: rgb(53, 149, 196);
+}
+
+#intro{
+  color: rgb(214, 52, 158);
+}
