@@ -8,7 +8,7 @@
             <h1>Interstellar</h1>
             <p>
               This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.
-            </p>
+            </p
             <button type="button" class="btn btn-success" name="button">Press here</button>
           </div>
         </div>
