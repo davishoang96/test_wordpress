@@ -17,12 +17,15 @@ a:link, a:visited{
 }
 
 #intro{
-  padding: 200px;
-  background-image: url(imgs/tos.jpg);
+  padding: 300px;
+  background-image: url(imgs/interstellar.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: top;
+}
+
+#intro p, #intro h1{
+  color: white;
 }
 
 #all{
