@@ -1,18 +1,19 @@
 
 <?php get_header(); ?>
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="container-fluid" id="intro" data-stellar-background-ratio="0.5">
+    <div class="container-fluid" id="intro" data-stellar-background-ratio="0.4">
       <div class="row">
         <div class="text-center">
           <div class="col-md-12">
             <div class="animatedParent">
-              <h1 class="animated bounceIn">Interstellar</h1>
+              <h1 class="animated fadeIn">Interstellar</h1>
+              <p class="animated fadeIn">
+                This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.
+              </p>
+              <h4 class="animated fadeIn">This is a heading of 4</h4>
+              <button type="button" class="btn btn-default animated bounceIn" name="button">Press here</button>
             </div>
-            <p>
-              This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.
-            </p>
-            <h4>This is a heading of 4</h4>
-            <button type="button" class="btn btn-success" name="button">Press here</button>
+
           </div>
         </div>
       </div>

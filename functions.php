@@ -30,12 +30,7 @@
   add_action("wp_footer", 'stellar_js');
 
   function activate_stellar(){
-      #wp_enqueue_script('stellar_js', get_template_directory_uri() . "/js/activate_stellar.js", array('jquery'), '', true);
-      ?>
-      <script>
-        $.stellar();
-      </script>
-      <?php
+    wp_enqueue_script('activateStellar_js', get_template_directory_uri() . "/js/activate_stellar.js", array('jquery'), '', true);
   }
   add_action("wp_footer", 'activate_stellar');
   #//////////////////////////////////////////
